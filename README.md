@@ -15,9 +15,9 @@ I’m a cybersecurity professional and ethical hacker with hands-on experience i
 Currently pursuing my **BSc in Computing at UNISA**, and actively building skills across both offensive and defensive security disciplines.
 
 - 🔭 I’m currently working on: Building automated recon tools and exploit scripts
-- 🌱 I’m learning: Red Team Ops, Malware Reverse Engineering
+- 🌱 I’m learning: Red Team Ops, Cloud Security
 - 💬 Ask me about: Web App Pentesting, Python Scripting, Network Exploits
-- 📫 How to reach me: your.email@example.com
+- 📫 How to reach me: 
 -
 ---
 
