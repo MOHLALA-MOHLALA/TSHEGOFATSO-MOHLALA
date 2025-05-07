@@ -33,7 +33,14 @@ Currently pursuing my **BSc in Computing at UNISA**, and actively building skill
   - ✅ Certified Software Developer
 
 ---
-
+# PROJECTS
+Malware Analysis 
+• Conducted static analysis using reverse engineering tools (e.g., Ghidra) to inspect malware binaries and performed dynamic analysis to
+study malware behavior in a sandboxed environment.
+• Developed automated sandboxing techniques for streamlined malware analysis while analyzing advanced evasion techniques used by
+malware to bypass detection.
+• De-obfuscated malicious scripts and payloads for better threat intelligence and mapped malware behaviors to the MITRE ATT&CK
+framework for effective reporting.
 
 
 ---
