@@ -46,4 +46,4 @@ framework for effective reporting.
 
 ---
 
-> *“Security is not a product, but a process.” – Bruce Schneier*
+NOTE : This portfolio is currently under maintenance and construction 🏗🚧⚠️⛔️
