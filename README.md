@@ -1,49 +1,86 @@
 
 
 
-# 👋 Hi, I'm TSHEGOFATSO MOHLALA
+## 👋 Hi, I’m Mohlala Mohlala
+🚀 Security Engineer | Ethical Hacker | DevSecOps Specialist
 
-🎯 **Cybersecurity Specialist | Ethical Hacker | Penetration Tester**  
-🔐 Securing applications, analyzing threats, and preventing breaches through proactive security measures.
+I’m a driven cybersecurity professional with 2+ years of hands-on experience across penetration testing, security analysis, and DevSecOps practices. My passion lies in securing systems end-to-end — from offensive testing and vulnerability discovery to automating security in CI/CD pipelines and cloud environments.
+With a solid foundation in offensive security, I bring an attacker’s mindset into my DevSecOps and security engineering work, ensuring that security is not just an afterthought but built-in by design.
 
----
+## Professional Summary
 
-## 🧰 About Me
-
-I’m a cybersecurity professional and ethical hacker with hands-on experience in penetration testing, vulnerability assessments, malware analysis, and network security. I’ve interned with Hacktify Cybersecurity and The Red Users, where I worked on live bug bounty programs and real-world security challenges.
-
+2+ years of experience in cybersecurity, penetration testing, and security engineering
+Strong background in DevSecOps, integrating security into CI/CD pipelines and cloud environments
+Hands-on expertise in malware analysis, vulnerability assessment, and application security
+Skilled in bridging development, operations, and security teams to deliver secure and resilient systems
+Committed to continuous improvement, proactive defense, and emerging security practices
 Currently pursuing my **BSc in Computing at UNISA**, and actively building skills across both offensive and defensive security disciplines.
 
-- 🔭 I’m currently working on: Building automated recon tools and exploit scripts
-- 🌱 I’m learning: Red Team Ops, Cloud Security
-- 💬 Ask me about: Web App Pentesting, Python Scripting, Network Exploits
-- 📫 How to reach me: https://www.linkedin.com/in/ts-mohlala
+##🛠️ Technical Skills
 
-## 🧪 Skills & Tools
+-DevSecOps & Automation: GitHub Actions, Jenkins, GitLab CI/CD, Terraform, Ansible
+-Cloud Security: AWS (IAM, CodePipeline, GuardDuty, Security Hub), Azure Security Center, GCP SCC
+-Container & Orchestration Security: Docker, Kubernetes, Helm, Aqua, Twistlock
+-Offensive Security & Analysis: Burp Suite, OWASP ZAP, Nessus, OpenVAS, Metasploit
+-Malware Analysis & Reverse Engineering: Ghidra, IDA Free, Wireshark, PE Studio, Sysinternals
+-Programming & Scripting: Python, Bash, Java, PowerShell
+-Monitoring & SIEM: Splunk, ELK Stack, Wazuh, OSSEC
+-Standards & Frameworks: NIST CSF, ISO 27001, CIS Benchmarks, OWASP Top 10
+-Certified Software developer
 
-- **Languages & Scripting:** Python, Bash, Java
-- **Pentesting & Analysis:** Burp Suite, Metasploit, Wireshark, Nmap, OWASP ZAP
-- **Security Scanners:** Nessus, OpenVAS
-- **Platforms & Environments:** Kali Linux, Parrot OS, Docker, Windows
-- **Certifications:**
-  - ✅ Certified Network Security Practitioner
-  - ✅ Ethical Hacker (Cisco)
-  - ✅ Certified Software Developer
+##📂 Projects
+1. DevSecOps: 7-Day AWS CI/CD Challenge
 
----
-# PROJECTS
-Malware Analysis 
+-Built a complete CI/CD pipeline on AWS using CodePipeline, CodeBuild, CodeDeploy, and CodeArtifact.
+-Automated testing and deployment of a real application with GitHub integration.
+-Integrated CloudFormation for infrastructure as code.
+-Produced portfolio-ready documentation showcasing cloud-native DevSecOps practices.
 
-• Conducted static analysis using reverse engineering tools (e.g., Ghidra) to inspect malware binaries and performed dynamic analysis to
-study malware behavior in a sandboxed environment.
+2. Malware Analysis 
 
-• Developed automated sandboxing techniques for streamlined malware analysis while analyzing advanced evasion techniques used by
-malware to bypass detection.
+-Set up a controlled malware analysis environment (Windows VM, Cuckoo Sandbox).
+-Performed static and dynamic analysis of Windows malware samples.
+-Extracted IoCs (Indicators of Compromise) and analyzed malicious behaviors with Wireshark, Ghidra, and Sysinternals.
+-De-obfuscated malicious scripts and payloads for better threat intelligence and mapped malware behaviors to the MITRE ATT&CK framework for effective reporting.
+-Produced detailed reports showcasing reverse engineering and threat intelligence practices.
 
-• De-obfuscated malicious scripts and payloads for better threat intelligence and mapped malware behaviors to the MITRE ATT&CK
-framework for effective reporting.
+3 .Secure Web Application Development
+-Designed and developed a secure web application following OWASP Top 10 guidelines.
+-Implemented authentication, session management, and input validation.
+-Conducted self-penetration testing using Burp Suite and OWASP ZAP to validate security controls.
+
+4. Job Board Portal (Web Development Project )
+-Designed and developed a job portal website addressing unemployment by connecting job seekers to tailored opportunities using advanced search filters (industry, location, experience, employer).
+-Implemented user-centric features including smart profile creation, CV guidance tools, and real-time notifications for new job matches.
+
+##💼Experience
+
+Penetration Tester Intern – Hacktify Cybersecurity
+Conducted vulnerability assessments and penetration testing on web applications.
+Collaborated with senior testers to produce client-ready security reports.
+Gained practical exposure to tools like Burp Suite, Nessus, and Metasploit.
+
+Cyber Security Intern – The Red Users
+Performed malware analysis and network monitoring.
+Assisted in developing scripts for automating log analysis and incident detection.
+Strengthened knowledge of SIEM tools and real-world incident response workflows.
+
+##Volunteering Experience
+-Supported Cybersecurity Indaba by assisting with event logistics, awareness campaigns, and stakeholder coordination.
+-Facilitated teams and mentored participants during the HackSecure Innovation Challenge hackathons
+-Contributed to cyber safety workshops and community outreach to raise digital security awareness.
+
+##📜 Certifications
+Certified Network Security Practitioner (CNSP)
+Cisco Ethical Hacker
+Certified Software Developer
+Multi-Cloud Red Teaming Analyst (MCRTA)
+CiscoEndpoint Security, Cyber Threat Management 
 
 
----
+##Let’s Connect
+LinkedIn : https://www.linkedin.com/in/ts-mohlala
+Email: tm.senokane@gmail.com
+------
 
 NOTE : This portfolio is currently under maintenance and construction 🏗🚧⚠️⛔️
